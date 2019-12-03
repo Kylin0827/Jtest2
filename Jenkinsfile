@@ -12,4 +12,8 @@ node() {
         // 
         echo 'c'
     }
+    stage(‘test'){
+    	//
+	echo 'd'
+    }
 }
