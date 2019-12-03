@@ -10,6 +10,6 @@ node() {
     }
     stage('Deploy') { 
         // 
-        echo 'c'
+        echo 'd'
     }
 }
