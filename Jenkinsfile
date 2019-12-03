@@ -12,4 +12,11 @@ node() {
         // 
         echo 'd'
     }
+<<<<<<< HEAD
+=======
+    stage(‘test'){
+    	//
+	echo 'd'
+    }
+>>>>>>> now
 }
