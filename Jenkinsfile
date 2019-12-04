@@ -12,7 +12,7 @@ node() {
         // 
         echo 'd'
     }
-    stage(‘test'){
+    stage('test'){
     	//
 	echo 'd'
     }
